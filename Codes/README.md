@@ -1,4 +1,4 @@
-# GW_Aniso_With_K
+# Main Codes
 
 The main codes for evaluating the hyper-spherical Bessel functions and Transfer functions are in K0_flat, Km_open and K_p_closed, the stuctures of which are given below, where XXX stands for flat, open and close.
 
@@ -13,4 +13,4 @@ The main codes for evaluating the hyper-spherical Bessel functions and Transfer 
 
 The codes for performing the auto-correlation of GWB and its cross-correlations with CMB are provided in the dictionary Computation.
 
-**NO DATA PROVIDED HERE**. The hyper-spherical Bessel functions and Transfer functions' files are too large to upload. If one wants to re-produced the result with different cosmological models, it is recommonded to go through the codes, change the parameter and run. One may need to modify the paths of data as well.
+**NOTE: NO DATA PROVIDED HERE**. The hyper-spherical Bessel functions and Transfer functions' files are too large to upload. If one wants to re-produced the result with different cosmological models, it is recommonded to go through the codes, change the parameter and run. One may need to modify the paths of data as well.
