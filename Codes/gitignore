@@ -1,0 +1,5 @@
+# hidden config and nuisance files
+*.vscode*
+*.DS_Store*
+*.~lock*
+*.directory*
